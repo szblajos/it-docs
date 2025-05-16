@@ -83,10 +83,16 @@ const config = {
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            to: '/docs/tutorials/intro',
             position: 'left',
             label: 'Tutorial',
+          },
+          {
+            to: '/docs/guides/installation-guide', 
+            label: 'Guides',
+            position: 'left',
+            type: 'docSidebar',
+            sidebarId: 'guideSidebar',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -104,7 +110,11 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/intro',
+                to: '/docs/tutorials/intro',
+              },
+              {
+                label: 'Guides',
+                to: '/docs/guides/installation-guide',
               },
             ],
           },

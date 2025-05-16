@@ -1,0 +1,12 @@
+{
+  "label": "Advanced Topics",
+  "collapsed": false,
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Here are some advanced topics that you can explore to enhance your knowledge and skills in using the library.",
+    "slug": "advanced-topics",
+    "keywords": ["advanced", "topics", "library"],
+    "title": "Advanced Topics"
+  }
+}
