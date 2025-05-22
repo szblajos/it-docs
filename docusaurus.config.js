@@ -104,6 +104,11 @@ const config = {
         },
         items: [
           {
+            to: '/docs/hi',
+            position: 'left',
+            label: 'Hello!',
+          },
+          {
             to: '/docs/tutorials/intro',
             position: 'left',
             label: 'Tutorial',
@@ -135,6 +140,10 @@ const config = {
           {
             title: 'Docs',
             items: [
+              {
+                label: 'Hello!',
+                to: '/docs/hi',
+              },
               {
                 label: 'Tutorial',
                 to: '/docs/tutorials/intro',
