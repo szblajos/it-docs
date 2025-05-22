@@ -30,6 +30,6 @@ Use `sidebars.js` to organize your documentation structure.
 
 :::tip
 
-If you want to learn more about **configuration**, please check the official documentation [here](https://docusaurus.io/docs/configuration). 🚀
+If you want to learn more about **configuration**, please check the official documentation [here](https://docusaurus.io/docs/configuration).
 
 :::
